@@ -1,0 +1,2 @@
+# MD5: 2f30850907e06438f9c5c21b75c0fda6
+CFG_TLPHY_OM_RPT_ENABLED               := YES
